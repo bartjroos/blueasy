@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title></title>
+  <title>Blueasy</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -50,7 +50,7 @@
       <h3><span>SER</span>VICES</h3>
       <div class="services">
         <div class="service">
-          <img src="img/Icon_coffee.png" alt="coffee" class="icon">
+          <img src="img/Icon_coffee.png" alt="coffee-icon" class="icon">
           <h4>Coffee</h4>
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate explicabo maiores eos? Exercitationem est porro ad odit nihil architecto ipsum, eveniet asperiores ipsam officiis, nobis laborum numquam, non voluptatem optio!</p>
         </div>
